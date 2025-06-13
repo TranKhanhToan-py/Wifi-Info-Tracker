@@ -7,7 +7,7 @@ Công cụ đơn giản để hiển thị thông tin Wi-Fi trên máy tính c�
 
 ## Tính năng
 - Hiển thị trạng thái Wi-Fi, SSID, tín hiệu sóng.
-- Cập nhật mỗi 0.5 giây.
+- Cập nhật mỗi 1 giây.
 - Không can thiệp mạng, không scan thiết bị khác.
 
 ---
@@ -15,7 +15,7 @@ Công cụ đơn giản để hiển thị thông tin Wi-Fi trên máy tính c�
 ## Cài đặt
 
 1. Cài Python 3.x từ https://www.python.org.
-2. Chạy lệnh: python wifi_check.py
+2. Chạy lệnh: python '''wifi_check.py'''
 
 
 ---
@@ -23,8 +23,8 @@ Công cụ đơn giản để hiển thị thông tin Wi-Fi trên máy tính c�
 ## Điều khoản sử dụng
 
 - 🔓 Miễn phí cho mục đích cá nhân hoặc học tập.
-- 🔒 Sử dụng thương mại cần mua bản quyền (2 USD).
-- Liên hệ mua bản quyền: your.email@gmail.com
+- 🔒 Sử dụng thương mại cần mua bản quyền (3 USD).
+- Liên hệ mua bản quyền: trankhanhtoan5b@gmail.com
 
 ---
 
@@ -44,5 +44,5 @@ Tác giả **không chịu trách nhiệm** với bất kỳ thiệt hại nào 
 ---
 
 ## Ủng hộ tác giả ☕
-
-ZaloPay: 0335067248
+-Cập nhật sau...
+##
