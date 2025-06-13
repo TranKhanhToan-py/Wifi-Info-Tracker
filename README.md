@@ -15,7 +15,7 @@ Công cụ đơn giản để hiển thị thông tin Wi-Fi trên máy tính c�
 ## Cài đặt
 
 1. Cài Python 3.x từ https://www.python.org.
-2. Chạy lệnh: python '''wifi_check.py'''
+2. Chạy lệnh: python ```wifi_check.py```
 
 
 ---
